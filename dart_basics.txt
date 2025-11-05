@@ -1,1 +1,1 @@
-Dart Repositary: git@github.com:AbdulRehman393/dart-programming.git
+Dart Repositary: https://github.com/AbdulRehman393/dart-flutter-journey.git
